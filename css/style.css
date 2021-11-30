@@ -1,3 +1,25 @@
 h1{
     text-align: center;
 }
+
+.navbar .bi{
+    font-size: 25px;
+    color: black;
+    padding: 0 10px;
+}
+
+.navbar .bi:hover{
+    color: blue;
+}
+
+.load{
+    background: chartreuse;
+    height: 93vh;
+}
+
+.home img{
+    width: 10px;
+}
+.footer{
+    text-align: center;
+}
