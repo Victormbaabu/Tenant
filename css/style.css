@@ -27,6 +27,25 @@ h1{
 .houze{
     height: 200px;
 }
+#pA{
+    display: none;
+}
 #p1{
     display: none;
 }
+#p2{
+    display: none;
+}
+#p3{
+    display: none;
+}
+#pB{
+    display: none;
+}
+#pAA{
+    display: none;
+}
+#pBB{
+    display: none;
+}
+
