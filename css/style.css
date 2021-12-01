@@ -1,7 +1,7 @@
 h1{
     text-align: center;
 }
-
+/*nav-bar section styling*/
 .navbar .bi{
     font-size: 25px;
     color: black;
@@ -10,6 +10,18 @@ h1{
 
 .navbar .bi:hover{
     color: blue;
+}
+ /*about-us section styling*/
+ #about-us-container {
+    text-align:center;
+    background-color: white;
+}
+#about-us-header {
+    padding-top: 3rem;
+}
+#about-us-description {
+    padding-bottom: 3rem;
+    line-height: 3rem;
 }
 
 .load{
@@ -21,9 +33,7 @@ h1{
 /* .home img{
     width: 10px;
 } */
-.footer{
-    text-align: center;
-}
+ /*house section styling*/
 .houze{
     height: 200px;
 }
@@ -47,5 +57,9 @@ h1{
 }
 #pBB{
     display: none;
+}
+ /*about-us section styling*/
+.footer{
+    text-align: center;
 }
 
