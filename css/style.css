@@ -14,12 +14,38 @@ h1{
 
 .load{
     background: chartreuse;
-    height: 93vh;
+    height: 370vh;
+    text-align: center;
 }
 
-.home img{
+/* .home img{
     width: 10px;
-}
+} */
 .footer{
     text-align: center;
 }
+.houze{
+    height: 200px;
+}
+#pA{
+    display: none;
+}
+#p1{
+    display: none;
+}
+#p2{
+    display: none;
+}
+#p3{
+    display: none;
+}
+#pB{
+    display: none;
+}
+#pAA{
+    display: none;
+}
+#pBB{
+    display: none;
+}
+
