@@ -55,10 +55,15 @@ h1{
 #pAA{
     display: none;
 }
+
+#p1{
+    display: none;
+}
 #pBB{
     display: none;
 }
- /*about-us section styling*/
+
+ /* section styling*/
 .footer{
     text-align: center;
 }
