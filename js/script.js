@@ -29,7 +29,6 @@ toggleFun("#pB", "#haoB");
   toggleFun("#hao1a", "#p1a");
  toggleFun("#p1a", "#hao1a");
 
-      
     $("#haoBB").click(function() {
       $("#haoBB").slideToggle();
       $("#pBB").slideToggle();
@@ -39,7 +38,8 @@ toggleFun("#pB", "#haoB");
       $("#pBB").slideToggle();
       $("#haoBB").slideToggle();
     }); 
-
+ // 2 bedroom apartment
+ 
    
 
 });

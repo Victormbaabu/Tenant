@@ -24,19 +24,15 @@ h1{
     line-height: 3rem;
 }
 
-.load{
-    background: chartreuse;
-    height: 370vh;
-    text-align: center;
-}
-
-/* .home img{
+.home img{
     width: 10px;
 } */
  /*house section styling*/
+
 .houze{
-    height: 200px;
+    height: 25%;
 }
+
 #pA, #p1, #p2, #p3{
     display: none;
 }
