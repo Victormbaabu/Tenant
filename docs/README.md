@@ -47,5 +47,5 @@ Victor muhita.
 Victor muguna.
 Arnold kagunda.
 
-License closed_lock_with_key
+### License 
 MIT
