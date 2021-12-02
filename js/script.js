@@ -58,6 +58,32 @@ $(document).ready(function(){
 /*1 bedroom apartment bedroom room toggle function*/ 
    toggleFun("#hao6a", "#p6a");
    toggleFun("#p6a", "#hao6a");
+//row 5   
+/*2 bedroom apartment toggle function*/  
+  toggleFun("#haoCC", "#pCC");
+  toggleFun("#pCC", "#haoCC"); 
+/*2 bedroom apartment sitting room toggle function*/ 
+  toggleFun("#hao11a", "#p11a");
+  toggleFun("#p11a", "#hao11a");    
+/*2 bedroom apartment kitchen toggle function*/ 
+  toggleFun("#hao12a", "#p12a");
+  toggleFun("#p12a", "#hao12a");
+/*2 bedroom apartment bedroom room toggle function*/ 
+  toggleFun("#hao13a", "#p13a");
+  toggleFun("#p13a", "#hao13a");
+//row 6
+/*2 bedroom apartment toggle function*/  
+  toggleFun("#haoDD", "#pDD");
+  toggleFun("#pDD", "#haoDD"); 
+/*2 bedroom apartment sitting room toggle function*/ 
+  toggleFun("#hao14a", "#p14a");
+  toggleFun("#p14a", "#hao14a");    
+/*2 bedroom apartment kitchen toggle function*/ 
+  toggleFun("#hao15a", "#p15a");
+  toggleFun("#p15a", "#hao15a");
+/*2 bedroom apartment bedroom room toggle function*/ 
+  toggleFun("#hao16a", "#p16a");
+  toggleFun("#p16a", "#hao16a");
 
 });
 

@@ -51,6 +51,12 @@ h1{
 #pBB,#p4a,#p5a,#p6a{
     display: none;
 }
+#pCC,#p11a,#p12a,#p13a{
+    display:none;
+}
+#pDD,#p14a,#p15a,#p16a{
+    display:none;
+}
 
  /* section styling*/
 .footer{
