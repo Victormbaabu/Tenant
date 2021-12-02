@@ -1,5 +1,5 @@
-Hi There, welcome to Delax-homes wave
-Making house hunts easier and more convenient computer headphones
+Hi There, welcome to Delax-homes.
+Making house hunts easier and more convenient.
 
 ## delax-homes 
 This is a website allows people to remotely look for houses and apartments hence saving them from the hassle of having to personally look for them.
@@ -42,10 +42,10 @@ victor.muhita@student.gmail.com
 victor.muguna@student.gmail.com
 
 ### Authors relieved
-Victor mutugi
-Victor muhita
-Victor muguna
-Arnold kagunda
+Victor mutugi.
+Victor muhita.
+Victor muguna.
+Arnold kagunda.
 
 License closed_lock_with_key
 MIT
