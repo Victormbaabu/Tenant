@@ -6,6 +6,7 @@ $(document).ready(function(){
       $(hideElementId).slideToggle();
      });
   }
+// row 1  
 /*studio apartment toggle function*/
   toggleFun("#haoA", "#pA");
   toggleFun("#pA", "#haoA");
@@ -18,13 +19,23 @@ $(document).ready(function(){
 /*studio apartment bedroom description toggle function*/
   toggleFun("#hao3", "#p3");
   toggleFun("#p3", "#hao3");
+// row 2  
 /*studio apartment row two toggle function*/
-toggleFun("#haoB", "#pB");
-toggleFun("#pB", "#haoB"); 
- /*1 bedroom apartment toggle function*/  
- toggleFun("#haoAA", "#pAA");
- toggleFun("#pAA", "#haoAA");
-
+  toggleFun("#haoB", "#pB");
+  toggleFun("#pB", "#haoB"); 
+/*studio apartment sitting room description row two toggle function */
+  toggleFun("#hao4", "#p4");
+  toggleFun("#p4", "#hao4"); 
+/*studio apartment kitchen description row two toggle function */
+  toggleFun("#hao5", "#p5");
+  toggleFun("#p5", "#hao5");
+/*studio apartment bed room description row two toggle function */
+  toggleFun("#hao6", "#p6");
+  toggleFun("#p6", "#hao6"); 
+// row 3
+/*1 bedroom apartment toggle function*/  
+  toggleFun("#haoAA", "#pAA");
+  toggleFun("#pAA", "#haoAA");
  /*1 bedroom apartment sitting room toggle function*/ 
   toggleFun("#hao1a", "#p1a");
  toggleFun("#p1a", "#hao1a");
