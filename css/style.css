@@ -11,10 +11,14 @@ h1{
 .navbar .bi:hover{
     color: blue;
 }
+
+.load{
+    background: chartreuse;
+}
  /*about-us section styling*/
- #about-us-container {
+#about-us-container {
     text-align:center;
-    background-color: white;
+    background-color:white;
 }
 #about-us-header {
     padding-top: 3rem;
@@ -23,20 +27,15 @@ h1{
     padding-bottom: 3rem;
     line-height: 3rem;
 }
-
-.load{
-    background: chartreuse;
-    height: 370vh;
-    text-align: center;
-}
-
-/* .home img{
+.home img{
     width: 10px;
 } */
  /*house section styling*/
+
 .houze{
-    height: 200px;
+    height: 25%;
 }
+
 #pA, #p1, #p2, #p3{
     display: none;
 }
@@ -62,4 +61,3 @@ h1{
 .footer{
     text-align: center;
 }
-
