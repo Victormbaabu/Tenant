@@ -1,7 +1,7 @@
 h1{
     text-align: center;
 }
-
+/*nav-bar section styling*/
 .navbar .bi{
     font-size: 25px;
     color: black;
@@ -10,6 +10,18 @@ h1{
 
 .navbar .bi:hover{
     color: blue;
+}
+ /*about-us section styling*/
+ #about-us-container {
+    text-align:center;
+    background-color: white;
+}
+#about-us-header {
+    padding-top: 3rem;
+}
+#about-us-description {
+    padding-bottom: 3rem;
+    line-height: 3rem;
 }
 
 .load{
@@ -21,31 +33,33 @@ h1{
 /* .home img{
     width: 10px;
 } */
-.footer{
-    text-align: center;
-}
+ /*house section styling*/
 .houze{
     height: 200px;
 }
-#pA{
+#pA, #p1, #p2, #p3{
     display: none;
 }
-#p1{
+
+#pB, #p4, #p5, #p6{
     display: none;
 }
-#p2{
+#pAA,#p1a,#p2a,#p3a{
     display: none;
 }
-#p3{
+
+#pBB,#p4a,#p5a,#p6a{
     display: none;
 }
-#pB{
-    display: none;
+#pCC,#p11a,#p12a,#p13a{
+    display:none;
 }
-#pAA{
-    display: none;
+#pDD,#p14a,#p15a,#p16a{
+    display:none;
 }
-#pBB{
-    display: none;
+
+ /* section styling*/
+.footer{
+    text-align: center;
 }
 
